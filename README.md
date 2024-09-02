@@ -37,6 +37,3 @@ SECRET_KEY=your_secret_key
 ```Bash
 npm start
 ```
-
-### License
-YelpCamp is licensed under the MIT License.
